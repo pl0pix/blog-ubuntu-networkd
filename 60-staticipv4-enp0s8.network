@@ -1,0 +1,5 @@
+[Match]
+Name=enp0s8
+[Network]
+DHCP=ipv6
+Address=192.168.1.20/24
